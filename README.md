@@ -1,2 +1,2 @@
-# Estrutura-de-dados-exerc-cios
+# Estrutura-de-dados-exercícios
 Exercícios feitos para treinar estrutura de dados
